@@ -1,0 +1,12 @@
+firmware ctig200\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\port.c
+firmware ctig200\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+firmware ctig200\port.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+firmware ctig200\port.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+firmware ctig200\port.o: ../Inc/FreeRTOSConfig.h
+firmware ctig200\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+firmware ctig200\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+firmware ctig200\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+firmware ctig200\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+firmware ctig200\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+firmware ctig200\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+firmware ctig200\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
